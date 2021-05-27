@@ -1,5 +1,8 @@
-### Hi there 👋
 
+[![Eilhwan's Stats](https://github-readme-stats.vercel.app/api?username=Eilhwan&count_private=true&show_icons=true&theme=darcula)](https://github.com/Eilhwan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eilhwan&layout=compact)](https://github.com/eilhwan/github-readme-stats)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=eilhwan&repo=portfolio)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Eilhwan/Eilhwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
